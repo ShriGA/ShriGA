@@ -72,9 +72,9 @@
 
 ### 📬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/shrikantambade/) <!-- Add your profile link -->
-- [Email](mailto:youremail@yourdomain.com) <!-- Update your email -->
-- [Portfolio](#) <!-- Add your website if you have one -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikantambade/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@yourdomain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat&logo=firefox-browser&logoColor=white)](#)
 
 ---
 
