@@ -72,7 +72,7 @@
 
 ### 📬 Let's Connect!
 
-- [LinkedIn](#) <!-- Add your profile link -->
+- [LinkedIn](www.linkedin.com/in/shrikantambade) <!-- Add your profile link -->
 - [Email](mailto:youremail@yourdomain.com) <!-- Update your email -->
 - [Portfolio](#) <!-- Add your website if you have one -->
 
